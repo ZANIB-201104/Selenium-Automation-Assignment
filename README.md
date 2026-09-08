@@ -121,5 +121,5 @@ mvn test
 
 ## Author
 
-Selenium Automation Project
+ZANIB ASLAM
 
